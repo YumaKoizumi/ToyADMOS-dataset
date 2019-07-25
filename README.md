@@ -36,8 +36,8 @@ CuPy:
 See the file named LICENSE.pdf
 
 ## Authors and Contact
-- Yuma Koizumi (Email: <koizumi.yuma@ieee.org>, Homepage: <https://sites.google.com/site/yumakoizumiweb/profile-english>)
+- Yuma Koizumi ([Homepage](https://sites.google.com/site/yumakoizumiweb/profile-english), Email: <koizumi.yuma@ieee.org>)
 - Shoichiro Saito
 - Noboru Harada
 - Hisashi Uematsu
-- Keisuke Imoto
+- Keisuke Imoto ([Homepage](https://sites.google.com/site/ksukeimoto/))
