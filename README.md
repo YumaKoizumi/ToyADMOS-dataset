@@ -16,6 +16,16 @@ See the file named DETAIL.pdf
 ## Usage examples
 
 ### Requierment
+Chainer: 4.5.0
+NumPy: 1.16.2
+CuPy:
+  CuPy Version          : 4.1.0
+  CUDA Build Version    : 9000
+  CUDA Driver Version   : 10000
+  CUDA Runtime Version  : 9000
+  cuDNN Build Version   : 7104
+  cuDNN Version         : 7600
+
 hogehoge
 
 ## Licence: 
