@@ -15,7 +15,9 @@ See the file named DETAIL.pdf
 
 ## Usage examples
 
-### Requierment
+hogehoge. We have tested these codes on follwoing environment
+<pre>
+Python: 3.6
 Chainer: 4.5.0
 NumPy: 1.16.2
 CuPy:
@@ -25,8 +27,7 @@ CuPy:
   CUDA Runtime Version  : 9000
   cuDNN Build Version   : 7104
   cuDNN Version         : 7600
-
-hogehoge
+</pre>
 
 ## Licence: 
 See the file named LICENSE.pdf
