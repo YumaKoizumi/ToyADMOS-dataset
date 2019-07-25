@@ -8,6 +8,12 @@ ToyADMOS dataset is a machine operating sounds dataset of approximately 540 hour
  - ToyConveyor
  - ToyTrain
 
+# Detailed description
+hogehoge
+
+# Usage
+hogehoge
+
 # Licence: 
 See the file named LICENSE.pdf
 
