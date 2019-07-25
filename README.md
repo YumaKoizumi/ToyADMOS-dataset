@@ -5,7 +5,8 @@ ToyADMOS dataset is a machine operating sounds dataset of approximately 540 hour
 > Paper URL: hogehoge
 
 ## Downoads:
- - ToyCar: 
+Since the total size of each sub-dataset is over 100GB, each sub-dataset is split into 7-9 files by 7-zip (7z-format). The total size of the compressed dataset is approximately 60GB. Download the zip files corresponding to the dataset of interest and use your favorite compression tool to unzip these split zip files. Each sub-dataset can be download at 
+- ToyCar: 
  - ToyConveyor
  - ToyTrain
 
