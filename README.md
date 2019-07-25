@@ -10,7 +10,7 @@ Since the total size of each sub-dataset is over 100GB, each sub-dataset is spli
  - ToyConveyor: 
  - ToyTrain: 
 
-## Detailed description
+## Detailed description of dataset
 See the file named DETAIL.pdf
 
 ## Usage examples
