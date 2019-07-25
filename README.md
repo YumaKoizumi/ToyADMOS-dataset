@@ -15,7 +15,7 @@ See the file named DETAIL.pdf
 
 ## Usage examples
 
-To give a sense of the usage of this dataset, a set of Python codes for data-generation, training, and test codes are available. 
+To give a sense of the usage of this dataset, a set of Python codes for data-generation, training, and test are available. 
  - Tutorials on small training/test datasets written in [1].
 
 We have tested these codes on follwoing environment:
