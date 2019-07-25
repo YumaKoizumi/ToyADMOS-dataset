@@ -17,7 +17,7 @@ See the file named DETAIL.pdf
 
 hogehoge. We have tested these codes on follwoing environment
 <pre>
-Python: 3.6
+Python: 3.6.8
 Chainer: 4.5.0
 NumPy: 1.16.2
 CuPy:
