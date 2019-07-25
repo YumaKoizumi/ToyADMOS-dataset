@@ -11,7 +11,7 @@ ToyADMOS dataset is a machine operating sounds dataset of approximately 540 hour
 # Detailed description
 hogehoge
 
-# Usage
+# Usage examples
 hogehoge
 
 # Licence: 
