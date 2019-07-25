@@ -38,6 +38,6 @@ See the file named LICENSE.pdf
 ## Authors and Contact
 - Yuma Koizumi ([Homepage](https://sites.google.com/site/yumakoizumiweb/profile-english), Email: <koizumi.yuma@ieee.org>)
 - Shoichiro Saito
-- Noboru Harada
+- Noboru Harada ([Homepage](http://www.kecl.ntt.co.jp/people/harada.noboru/index.html))
 - Hisashi Uematsu
 - Keisuke Imoto ([Homepage](https://sites.google.com/site/ksukeimoto/))
