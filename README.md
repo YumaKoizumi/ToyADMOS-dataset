@@ -32,7 +32,7 @@ CuPy:
   cuDNN Version         : 7600
 </pre>
 
-## Licence: 
+## License: 
 See the file named LICENSE.pdf
 
 ## Authors and Contact
