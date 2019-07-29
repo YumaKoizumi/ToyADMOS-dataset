@@ -4,8 +4,8 @@ ToyADMOS dataset is a machine operating sounds dataset of approximately 540 hour
 >[1] Yuma Koizumi, Shoichiro Saito, Noboru Harada, Hisashi Uematsu and Keisuke Imoto, "ToyADMOS: A Dataset of Miniature-Machine Operating Sounds for Anomalous Sound Detection," in Proc of Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2019.
 > Paper URL: hogehoge
 
-## Downoads:
-The dataset can be download at hogehoge. 
+## Download:
+The dataset can be downloaded at hogehoge. 
 
 Since the total size of the ToyADMOS dataset is over 440GB, each sub-dataset is split into 7-9 files by 7-zip (7z-format). The total size of the compressed dataset is approximately 180GB, and that of each sub-dataset is approximately 60GB. Download the zip files corresponding to sub-datasets of interest and use your favorite compression tool to unzip these split zip files. 
 
