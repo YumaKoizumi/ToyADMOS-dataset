@@ -11,7 +11,7 @@ Since the total size of the ToyADMOS dataset is over 440GB, each sub-dataset is 
 
 
 ## Detailed description of dataset
-See the file named DETAIL.pdf
+See the file named DETAIL.pdf (TBA)
 
 ## Usage examples
 
