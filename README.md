@@ -16,8 +16,7 @@ See the file named DETAIL.pdf (TBA)
 ## Usage examples
 
 To give a sense of the usage of this dataset, a set of Python codes for data-generation, training, and test are available. 
- - Tutorials on small training/test datasets written in [1]. (TBA)
-  - aaa
+
  <dl>
   <dt>Tutorials on small training/test datasets written in [1].</dt>
   <dd>Dowload "C01_create_small_INT_dataset", "E01_simple_AE_test", and "anomaly_conditions"</dd>
