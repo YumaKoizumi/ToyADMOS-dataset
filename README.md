@@ -17,6 +17,16 @@ See the file named DETAIL.pdf (TBA)
 
 To give a sense of the usage of this dataset, a set of Python codes for data-generation, training, and test are available. 
  - Tutorials on small training/test datasets written in [1]. (TBA)
+  - aaa
+ <dl>
+  <dt>Tutorials on small training/test datasets written in [1].</dt>
+  <dd>Dowload "C01_create_small_INT_dataset", "E01_simple_AE_test", and "anomaly_conditions"</dd>
+  <dd>Run "make_dataset_for_car_and_conveyor.py" and "make_dataset_for_train.py" in "C01_create_small_INT_dataset" to make dataset</dd>
+  <dd>Run "01_train.py" in "E01_simple_AE_test" to train a model</dd>
+  <dd>Run "02_test.py" in "E01_simple_AE_test" to evaluate a model</dd>
+  <dd>Note that paths in each code need to be changed depending on your environment</dd>
+</dl> 
+  
 
 We have tested these codes on follwoing environment:
 <pre>
