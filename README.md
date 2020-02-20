@@ -20,7 +20,13 @@ To give a sense of the usage of this dataset, a set of Python codes for data-gen
  <dl>
   <dt>Tutorials on small training/test datasets written in [1].</dt>
   <dd> - Dowload "C01_create_small_INT_dataset", "E01_simple_AE_test", and "anomaly_conditions"</dd>
-  <dd> - Run "make_dataset_for_car_and_conveyor.py" and "make_dataset_for_train.py" in "C01_create_small_INT_dataset" to make dataset</dd>
+  <dd> - Run "make_dataset_for_car_and_conveyor.py" and "make_dataset_for_train.py" in "C01_create_small_INT_dataset" to make dataset. 
+<pre>
+[20 Feb. 2020] Note that the description of the gain parameters in our paper was wrong.
+Original: To control the signal-to-noise ratio, we multiplied 3.16 (+10 dB) by the waveforms of target sounds in the toy-car and toy-conveyor sub-datasets and by the waveforms of noise sounds in the toy-train sub-dataset. 
+Correctl: To control the signal-to-noise ratio, we multiplied 3.16 (+10 dB) by the waveforms of target sounds in toy-train sub-dataset and by the waveforms of noise sounds in the toy-car and toy-conveyor sub-datasets.
+</pre>
+ </dd>
   <dd> - Run "01_train.py" in "E01_simple_AE_test" to train a model</dd>
   <dd> - Run "02_test.py" in "E01_simple_AE_test" to evaluate a model</dd>
   <dd> - Note that paths in each code need to be changed depending on your environment</dd>
